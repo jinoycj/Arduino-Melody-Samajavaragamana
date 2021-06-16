@@ -2,7 +2,7 @@
  * SAMAJAVARAGAMANA 
  * 
  * Connect a piezo buzzer or speaker to pin 6 or select a new pin.
- * for more arduino projects from me, plese visit https://github.com/jinoycj/arduino
+ * for more arduino projects from me, please visit https://github.com/jinoycj/
  * 
  * I have used some code snippets from https://github.com/robsoncouto/arduino-songs 
  * There you can find lots other songs.
